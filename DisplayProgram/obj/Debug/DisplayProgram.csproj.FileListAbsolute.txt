@@ -1,0 +1,7 @@
+C:\Users\sanskruti.itkar\source\repos\DisplayProgram\bin\Debug\DisplayProgram.exe.config
+C:\Users\sanskruti.itkar\source\repos\DisplayProgram\bin\Debug\DisplayProgram.exe
+C:\Users\sanskruti.itkar\source\repos\DisplayProgram\bin\Debug\DisplayProgram.pdb
+C:\Users\sanskruti.itkar\source\repos\DisplayProgram\obj\Debug\DisplayProgram.csproj.AssemblyReference.cache
+C:\Users\sanskruti.itkar\source\repos\DisplayProgram\obj\Debug\DisplayProgram.csproj.CoreCompileInputs.cache
+C:\Users\sanskruti.itkar\source\repos\DisplayProgram\obj\Debug\DisplayProgram.exe
+C:\Users\sanskruti.itkar\source\repos\DisplayProgram\obj\Debug\DisplayProgram.pdb
